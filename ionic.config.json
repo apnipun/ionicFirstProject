@@ -1,0 +1,7 @@
+{
+  "name": "my_places",
+ "defaultBrowser": "chrome", "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
